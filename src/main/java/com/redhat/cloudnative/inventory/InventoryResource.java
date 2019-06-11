@@ -5,6 +5,7 @@ import javax.persistence.*;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 
+/* teste commit */
 @Path("/")
 @ApplicationScoped
 public class InventoryResource {
